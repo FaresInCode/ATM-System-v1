@@ -1,0 +1,2 @@
+1#//#1234#//#John#//#Doe#//#555-1234#//#5000.00#//#USA#//#New York#//#Manhattan#//#123 Main St#//#CityBank#//#US123456789#//#USA#//#New York#//#HQ#//#1 Bank Ave#//#Mary#//#NYC#//#Smith#//#-1
+0#//#5678#//#Jane#//#Smith#//#555-5678#//#2500.00#//#UK#//#London#//#Westminster#//#456 High St#//#UKBank#//#GB987654321#//#UK#//#London#//#Central#//#2 Finance Rd#//#Anne#//#Paris#//#Johnson#//#32
