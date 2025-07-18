@@ -89,8 +89,8 @@ const string SecurityQuestion1 = "What is your mother's first name?";
 const string SecurityQuestion2 = "In what city were you born?";
 const string SecurityQuestion3 = "What is the name of your favorite teacher?";
 sClient CurrentClient;
-string AdminAccountNumber = "OF1234";
-string AdminPinCode = "5594";
+string AdminAccountNumber = "F1234";
+string AdminPinCode = "1234";
 //======================Declaration Functions=================================================================================================
 
 void ShowMainMenue(); 
